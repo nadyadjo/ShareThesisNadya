@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgblue"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_gravity="center"
+    tools:context=".SettingsActivity">
+
+    <LinearLayout
+        android:padding="30dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingBottom="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Please input the watt of each lamp:  "/>
+
+        <TextView
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lamp 1 (on Terrace): "/>
+
+        <EditText
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/et_watt1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="watt"/>
+
+        <TextView
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lamp 2 (on Bedroom): "/>
+
+        <EditText
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/et_watt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="watt"/>
+
+        <TextView
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lamp 3 (on Living Room): "/>
+
+        <EditText
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/et_watt3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="watt"/>
+
+
+        <TextView
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lamp 4 (on Closet Room): "/>
+
+        <EditText
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/et_watt4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="watt"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_margin="10dp"
+            android:id="@+id/btn_set"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SET"
+            android:textSize="18sp"
+            android:textColor="#000000"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+        />
+    </LinearLayout>
+
+
+</LinearLayout>

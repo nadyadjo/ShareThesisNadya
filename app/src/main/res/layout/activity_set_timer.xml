@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgblue"
+    tools:context=".SetTimerActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Set timer to turn on or off the lamp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Turn On: "/>
+    <EditText
+        android:id="@+id/et_setTimerOn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Time On"/>
+
+    <ToggleButton
+        android:id="@+id/toggle_on"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Turn Off: "/>
+    <EditText
+        android:id="@+id/et_setTimerOff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Time Off"/>
+
+    <ToggleButton
+        android:id="@+id/toggle_off"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn_setTimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SET"/>
+    <Button
+        android:id="@+id/btn_resetTimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RESET"/>
+
+</LinearLayout>

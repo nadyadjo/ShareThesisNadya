@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Home Light Controller</string>
+    <string name="setTimer">SET TIMER</string>
+    <string name="setBright">SET BRIGHT</string>
+    <string name="room1">Terrace</string>
+    <string name="room2">Living Room</string>
+    <string name="room3">Bed Room</string>
+    <string name="room4">Closet Room</string>
+
+    <string-array name="month">
+        <item>january</item>
+        <item>february</item>
+        <item>march</item>
+        <item>april</item>
+        <item>may</item>
+        <item>june</item>
+        <item>july</item>
+        <item>august</item>
+        <item>september</item>
+        <item>october</item>
+        <item>november</item>
+        <item>december</item>
+    </string-array>
+</resources>

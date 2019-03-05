@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "919381460708",
+    "firebase_url": "https://android-test-434dd.firebaseio.com",
+    "project_id": "android-test-434dd",
+    "storage_bucket": "android-test-434dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919381460708:android:f3be946888461267",
+        "android_client_info": {
+          "package_name": "com.example.macbook_pro.sendsms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919381460708-lagqd3g7skmv2ackm7f21qjtui9gc2dd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.macbook_pro.sendsms",
+            "certificate_hash": "5ff5f63a7d4385a05596714293f5ec89e4fdc44a"
+          }
+        },
+        {
+          "client_id": "919381460708-3p12i959nvps850tno6eoe21fpu7lrnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcZBn2k-JfmLG4COuppZdW5ahS5TMznKY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919381460708-3p12i959nvps850tno6eoe21fpu7lrnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919381460708:android:5bb14d31ebdfe290",
+        "android_client_info": {
+          "package_name": "com.example.nadya.homelightcontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919381460708-r4nqslpk162cbkf1qbp77fm70oasf9ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nadya.homelightcontroller",
+            "certificate_hash": "475c286bbd19e6cf43f519a5c9bebf46d1ef4416"
+          }
+        },
+        {
+          "client_id": "919381460708-3p12i959nvps850tno6eoe21fpu7lrnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcZBn2k-JfmLG4COuppZdW5ahS5TMznKY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919381460708-3p12i959nvps850tno6eoe21fpu7lrnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919381460708:android:2870a3af56e1e5ba",
+        "android_client_info": {
+          "package_name": "com.example.nadya.lightcontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919381460708-gkubg1urp83kndnqmp3viecoiftreg6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nadya.lightcontroller",
+            "certificate_hash": "475c286bbd19e6cf43f519a5c9bebf46d1ef4416"
+          }
+        },
+        {
+          "client_id": "919381460708-3p12i959nvps850tno6eoe21fpu7lrnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcZBn2k-JfmLG4COuppZdW5ahS5TMznKY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919381460708-3p12i959nvps850tno6eoe21fpu7lrnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919381460708:android:e3a41658b30a539f",
+        "android_client_info": {
+          "package_name": "com.example.nadya.thesisnadya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919381460708-2mr56jikk3ibfepm4mj0qb8dc09infan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nadya.thesisnadya",
+            "certificate_hash": "475c286bbd19e6cf43f519a5c9bebf46d1ef4416"
+          }
+        },
+        {
+          "client_id": "919381460708-3p12i959nvps850tno6eoe21fpu7lrnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcZBn2k-JfmLG4COuppZdW5ahS5TMznKY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919381460708-3p12i959nvps850tno6eoe21fpu7lrnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
